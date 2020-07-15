@@ -1,2 +1,2 @@
-# Basic-Chatbot
+# Chatbot
 A simple chatbot using Python library
